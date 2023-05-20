@@ -1,0 +1,7 @@
+https://medium.com/@iago.maiasilva/construindo-uma-api-com-nestjs-postgresql-e-docker-parte-1-criando-nosso-primeiro-endpoint-248d4b8ecc9c
+
+Instalação do Node.Js
+
+Instalação do Nestjs => npm i -g @nestjs/cli
+-Criação do projeto. => nest new nestjs-pgsql-api (Criar localmente na pasta via CMD)
+-- Colocar em  excução => npm run start:dev
